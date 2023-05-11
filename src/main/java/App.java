@@ -12,7 +12,7 @@ public class App {
 
         //System.out.println(accountNumber);
 
-        Account account = new Account("123156458712");
+        Account account = new Account("987-6543214-13");
         System.out.println(account);
     }
 }
