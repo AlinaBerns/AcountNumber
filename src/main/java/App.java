@@ -10,9 +10,16 @@ public class App {
         //String accountNumber = (num + "-" + num2 + "-" + num3);
 
 
+
+
         //System.out.println(accountNumber);
 
         Account account = new Account("987-6543214-13");
+
         System.out.println(account);
+
+        account.checkAccount();
+
+
     }
 }
